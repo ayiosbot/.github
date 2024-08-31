@@ -7,5 +7,14 @@ All of our programming, if public on GitHub, is always licensed under the MIT li
 https://ayios.xyz/
 
 ---
-Here are some of our stats:
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayiosbot)](https://github.com/anuraghazra/github-readme-stats)
+
+### Open-source projects
+> **Updated since August 31, 2024**
+
+|Project|Card|
+|:--------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|
+|Logger|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayiosbot&repo=logger&theme=tokyonight)](https://github.com/ayiosbot/logger)|
+|fflags|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayiosbot&repo=fflags&theme=tokyonight)](https://github.com/ayiosbot/fflags)|
+|ipc|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayiosbot&repo=ipc&theme=tokyonight)](https://github.com/ayiosbot/ipc)|
+|rpc|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayiosbot&repo=rpc&theme=tokyonight)](https://github.com/ayiosbot/rpc)|
+|ayios-util|[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ayiosbot&repo=ayios-util&theme=tokyonight)](https://github.com/ayiosbot/ayios-util)|
